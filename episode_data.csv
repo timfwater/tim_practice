@@ -1,0 +1,22 @@
+patient_id,Service code,Service description,Service date,cost
+1,o1,Orthopedic specialist,2-1-18,300
+1,o1,Orthopedic specialist,3-1-18,300
+1,bw,Blood work test,3-1-18,100
+1,xr,Otrhopedic x-ray,3-1-18,1000
+1,hs,Hip Surgery,4-1-18,40000
+1,ip,Inpatient stay,4-1-18,10000
+1,pt,Physical therapy,4-7-18,500
+1,pt,Physical therapy,4-14-18,500
+1,ip,Inpatient stay,4-21-18,5000
+1,o1,Orthopedic specialist,4-21-18,300
+2,o1,Orthopedic specialist,2-1-18,300
+2,o1,Orthopedic specialist,3-1-18,300
+2,bw,Blood work test,3-1-18,100
+2,xr,Otrhopedic x-ray,3-1-18,1000
+2,hs,Hip Surgery,4-1-18,40000
+2,ip,Inpatient stay,4-1-18,10000
+2,pt,Physical therapy,4-7-18,500
+2,pt,Physical therapy,4-14-18,500
+2,ip,Inpatient stay,4-21-18,5000
+2,o1,Orthopedic specialist,4-21-18,300
+2,hs,Hip Surgery,4-22-18,20000
